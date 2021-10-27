@@ -13,6 +13,7 @@
 		FABDA3402729D23300C804E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FABDA33E2729D23300C804E3 /* Main.storyboard */; };
 		FABDA3422729D23700C804E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FABDA3412729D23700C804E3 /* Assets.xcassets */; };
 		FABDA3452729D23700C804E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FABDA3432729D23700C804E3 /* LaunchScreen.storyboard */; };
+		FABDA34D2729D34500C804E3 /* guitar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FABDA34C2729D34500C804E3 /* guitar.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FABDA3412729D23700C804E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FABDA3442729D23700C804E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FABDA3462729D23700C804E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FABDA34C2729D34500C804E3 /* guitar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = guitar.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				FABDA33C2729D23300C804E3 /* ViewController.swift */,
 				FABDA33E2729D23300C804E3 /* Main.storyboard */,
 				FABDA3412729D23700C804E3 /* Assets.xcassets */,
+				FABDA34C2729D34500C804E3 /* guitar.jpg */,
 				FABDA3432729D23700C804E3 /* LaunchScreen.storyboard */,
 				FABDA3462729D23700C804E3 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FABDA3452729D23700C804E3 /* LaunchScreen.storyboard in Resources */,
+				FABDA34D2729D34500C804E3 /* guitar.jpg in Resources */,
 				FABDA3422729D23700C804E3 /* Assets.xcassets in Resources */,
 				FABDA3402729D23300C804E3 /* Main.storyboard in Resources */,
 			);
